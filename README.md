@@ -25,5 +25,6 @@ EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover
     * https://ieeexplore.ieee.org/document/8519248
 
 
-![Uploading image.png…]()
+![Picture1](https://github.com/user-attachments/assets/070da14a-3d9f-4a25-bef3-83b5bd11340a)
+
 
