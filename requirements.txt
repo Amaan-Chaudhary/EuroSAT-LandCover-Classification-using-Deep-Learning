@@ -1,0 +1,6 @@
+# torchgeo version taken from the notebook's install log; it pulls in a compatible torch
+torchgeo==0.7.0
+torchvision
+matplotlib
+scikit-learn
+jupyter
