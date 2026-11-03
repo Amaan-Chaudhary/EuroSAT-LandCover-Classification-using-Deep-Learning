@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artefacts (downloaded or generated, not committed)
+data/
+checkpoints/
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
